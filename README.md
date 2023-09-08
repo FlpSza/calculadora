@@ -36,8 +36,11 @@ A área de exibição mostrará os números e resultados das operações.
 
 Exemplo de Uso:
 
+<img src="/img/Foto 1 calc.jpg">
 
 Exemplo de Uso:
+
+<img src="/img/Foto 2 calc.jpg">
 
 <hr>
 
